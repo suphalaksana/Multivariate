@@ -27,7 +27,11 @@
 
 ![2](2.jpg)
 
-กดเลือก Save a copy in Github หรือ
+กดเลือก Save a copy in Github หรือ บันทึกสำเนาใน Github
+
+![3](3.jpg)
+
+
 
 
 
