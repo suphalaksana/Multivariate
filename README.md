@@ -7,6 +7,6 @@
 .[_]. square brackets
 
 ( ) parentheses
-!.[En_BlackWhite].(En_BlackWhite.JPG)
+!.[En_Blackwhite].(En_Blackwhite.jpg)
 
 อธิบายการใช้งานGithubและ Google colab ว่าหน้าที่ของแต่ละอันคืออะไรและอธิบายวิธีเซฟจากGoogle colab ลง Github
